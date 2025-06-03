@@ -1,0 +1,21 @@
+{
+    "name": "haghgoo/web_final",
+    "authors": [
+        {
+            "name": "Pixelman77",
+            "email": "haghgoo33@gmail.com"
+        }
+    ],
+    "require": {},
+
+        
+    "autoload": {
+        "psr-4": {
+        "App\\Controllers\\": "controllers/",
+        "App\\Models\\": "models/",
+        "App\\Core\\": "core/"
+        }
+    }
+}
+
+
